@@ -1,4 +1,6 @@
-<h1>Hi, <span class="wave">👋</span> I am Sensei!</h1>
+                                                   Hi,  I am Sensei!
+                                     !-------------------------------------------------!
+                                    
 <h3 align="center">~I am a professional web developer and youtuber.~</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidhasansajid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abidhasansajid-dev" /> </p>
