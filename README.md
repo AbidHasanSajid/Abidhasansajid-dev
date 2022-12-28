@@ -1,3 +1,5 @@
+​<h1>Inline hands <span class="wave">👋🏾</span> work also!</h1><span class="wave">👋</span>
+
 <h1>Inline hands <span class="wave">👋🏾</span> work also!</h1>
 <h3 align="center">~I am a professional web developer and youtuber.~</h3>
 
