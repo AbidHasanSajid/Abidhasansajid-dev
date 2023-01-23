@@ -1,3 +1,6 @@
+ <h4 class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Youtuber, Otaku"></span></h4>
+
+
 <br><img src="https://media.giphy.com/media/ZOSPUwBTZhCyb5Xmsb/giphy.gif" width="990" height="300" />
 <br><img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="990" height="300" />
 # 💫 About Me:
