@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### 👑 Discord PFP
+### 👑 Discord ID:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/807877568178290710)](https://discord.com/users/807877568178290710)
 
